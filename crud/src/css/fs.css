@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.firstDiv{
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+    align-items: center;
+}
+.form
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+   
+    
+}
+#submit,button{
+    width: 100%;
+}
+input,button{
+    margin-top: 20px;
+    width: 100%;
+    margin-bottom: 10px;
+    height: 30px;
+}
+
+#head
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#btn{
+    width: 10%;
+    
+}
+.back{
+    width: 10%;
+}
